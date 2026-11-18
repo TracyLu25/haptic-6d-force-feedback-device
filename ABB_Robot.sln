@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Robotics.UrdfImporter", "Unity.Robotics.UrdfImporter.csproj", "{21274DF3-5FCA-C0FF-D00B-E0EE0F0745FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{09965F62-49D8-CD19-0A12-624158493770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21274DF3-5FCA-C0FF-D00B-E0EE0F0745FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21274DF3-5FCA-C0FF-D00B-E0EE0F0745FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21274DF3-5FCA-C0FF-D00B-E0EE0F0745FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21274DF3-5FCA-C0FF-D00B-E0EE0F0745FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09965F62-49D8-CD19-0A12-624158493770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09965F62-49D8-CD19-0A12-624158493770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09965F62-49D8-CD19-0A12-624158493770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09965F62-49D8-CD19-0A12-624158493770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
